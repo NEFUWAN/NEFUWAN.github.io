@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wan Weixuan | Device Reliability, Computer Vision, FPGA | Xi'an Jiaotong University | ELE
+title: "Wan Weixuan | Device Reliability, Computer Vision, FPGA | Xi'an Jiaotong University | ELE "
 author_profile: true
 redirect_from: 
   - /about/

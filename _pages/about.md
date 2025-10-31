@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My Chinese name is 宛玮轩.I'm a first-year master's student from [School of ELE](https://ele.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest includes device reliability, transfer learning, and FPGA.
+My Chinese name is 宛玮轩. I'm a first-year master's student from [School of ELE](https://ele.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest includes device reliability, transfer learning, and FPGA.
 
-I am extremely fortunate to have received guidance from Professor [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin) of the [Microelectronics Institute](https://ele.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
+I am extremely fortunate to have received guidance from Prof. [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin) of the [Microelectronics Institute](https://ele.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 
 You can find my CV here: [Wan Weixuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
@@ -19,7 +19,7 @@ You can find my CV here: [Wan Weixuan's Curriculum Vitae](../assets/Curriculum_V
 
 ## 📖Educations
 
-- 2025.09 - Now, Master of Engineering, Huawei Joint Training Program, Integrated Circuit Engineering at Xi'an Jiaotong University, China. Supervised by Prof. [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin).
+- 2025.09 - Now, Master of Engineering-[Huawei](https://www.huawei.com/cn/) Joint Training Program, Integrated Circuit Engineering at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), China. Supervised by Prof. [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin).
 - 2021.09 - 2025.06, Bachelor of Electronics Information Engineering, [Northeast Forestry University](https://www.nefu.edu.cn/), Harbin, China. Supervised by Prof. [Ming Li](https://ccec.nefu.edu.cn/info/1044/1818.htm)
 
 

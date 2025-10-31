@@ -21,8 +21,7 @@ You can find my CV here: [Wan Weixuan's Curriculum Vitae](../assets/Curriculum_V
 ## 📖Educations
 
 - 2025.09 - Now, Master of Engineering-[Huawei](https://www.huawei.com/cn/) Joint Training Program, Integrated Circuit Engineering at [Xi'an Jiaotong University](https://www.xjtu.edu.cn/), China. Supervised by Prof. [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin).
-- 2021.09 - 2025.06, Bachelor of Electronics Information Engineering, [Northeast Forestry University](https://www.nefu.edu.cn/), Harbin, China. Supervised by Prof. [Ming Li](https://ccec.nefu.edu.cn/info/1044/1818.htm)
-
+- 2021.09 - 2025.06, Bachelor of Electronics Information Engineering, [Northeast Forestry University](https://www.nefu.edu.cn/), Harbin, China. The graduation thesis was supervised by Prof. [Ming Li](https://ccec.nefu.edu.cn/info/1044/1818.htm). The competition was supervised by Prof. [Wenhui Zhang](https://civil.nefu.edu.cn/info/3218/5172.htm), Prof. [Guanghui Dong](https://ccec.nefu.edu.cn/info/1043/1938.htm), Prof. [Mingyu Ji](https://ccec.nefu.edu.cn/info/1132/2215.htm), Prof. [Dechun Yuan](https://ccec.nefu.edu.cn/info/1228/3869.htm) and Prof. [Shufa Sun](https://civil.nefu.edu.cn/szdw1/wlgc/ss/grxx1.htm) et al.
 
 ## 🎖️Awards
 

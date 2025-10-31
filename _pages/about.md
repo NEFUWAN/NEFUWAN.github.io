@@ -1,17 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weixuan Wan - Welcome to Weixuan Wan's HomePage</title>
-</head>
-<body>
-    <h1>Weixuan Wan - Welcome to Weixuan Wan's HomePage</h1>
-    <p>This is the content of your Markdown file.</p>
-    
-</body>
-</html>
-
+---
+permalink: /
+title: "Weixuan Wan - Welcome to Weixuan Wan's HomePage"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 My Chinese name is 宛玮轩. I'm a first-year master's student from [School of ELE](https://ele.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest includes device reliability, transfer learning, and FPGA.

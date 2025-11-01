@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-My Chinese name is 宛玮轩. I'm a first-year master's student from [School of ELE](https://ele.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest includes device reliability, transfer learning, and FPGA.
+My Chinese name is 宛玮轩. I'm a first-year master's student from [School of ELE](https://ele.xjtu.edu.cn/), [Xi'an Jiaotong University](https://www.xjtu.edu.cn/). My research interest includes Semiconductor Device
+, Integration of RF Devices and Circuits, Transfer Learning, and FPGA.
 
 I am extremely fortunate to have received guidance from Prof. [Wang Dan](https://gr.xjtu.edu.cn/web/alexaustin) of the [Microelectronics Institute](https://ele.xjtu.edu.cn/) of [Xi'an Jiaotong University](https://www.xjtu.edu.cn/).
 

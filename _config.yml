@@ -23,7 +23,7 @@ repository               : "NEFUWAN/NEFUWAN.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wwx.png"
+  avatar           : "wwxprofile.png"
   name             : "Wan Weixuan(宛玮轩)"
   pronouns         : # example: "she/her"  
   bio              : "Never stop chasing the wind and the moon"
